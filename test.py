@@ -1,0 +1,1 @@
+print(os.getenv("GOOGLE_API_KEY"))  
